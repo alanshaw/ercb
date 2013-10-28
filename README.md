@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/alanshaw/ercb.png?branch=master)](https://travis-ci.org/alanshaw/ercb) [![devDependency Status](https://david-dm.org/alanshaw/ercb/dev-status.png)](https://david-dm.org/alanshaw/ercb#info=devDependencies)
-===
-
-ercb
+ercb [![Build Status](https://travis-ci.org/alanshaw/ercb.png?branch=master)](https://travis-ci.org/alanshaw/ercb) [![devDependency Status](https://david-dm.org/alanshaw/ercb/dev-status.png)](https://david-dm.org/alanshaw/ercb#info=devDependencies)
 ===
 For those who don't like the node (er, result) convention.
 
