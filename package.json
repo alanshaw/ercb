@@ -1,0 +1,30 @@
+{
+  "name": "ercb",
+  "version": "1.0.0",
+  "description": "For those who don't like the node (er, result) convention",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alanshaw/ercb.git"
+  },
+  "keywords": [
+    "success",
+    "failure",
+    "callback",
+    "cb",
+    "error",
+    "err",
+    "er"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/ercb/issues"
+  },
+  "devDependencies": {
+    "tap": "~0.4.4"
+  }
+}
